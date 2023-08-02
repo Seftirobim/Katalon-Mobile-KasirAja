@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit User Name, kasir role</description>
+   <name>TC.USER.05</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>350026ee-f738-4773-8309-a146c1520f70</testCaseGuid>
+</TestCaseEntity>

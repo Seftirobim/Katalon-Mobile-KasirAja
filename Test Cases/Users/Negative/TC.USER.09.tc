@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User admin role, want to add duplicate user email</description>
+   <name>TC.USER.09</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d9087d9-bf9d-461c-8ce9-c675f9f846e4</testCaseGuid>
+</TestCaseEntity>

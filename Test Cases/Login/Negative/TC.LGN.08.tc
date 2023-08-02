@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User want to login with empty form</description>
+   <name>TC.LGN.08</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d28c39b8-aa9e-42e0-bb57-72f749e89287</testCaseGuid>
+</TestCaseEntity>

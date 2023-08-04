@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>User admin role, want to access pengguna page</description>
-   <name>TC.USER.01</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>b1ff1aa3-fe31-470c-b9c2-8f8952012f09</testCaseGuid>
-</TestCaseEntity>

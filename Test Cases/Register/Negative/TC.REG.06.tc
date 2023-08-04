@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Register with empty nama toko</description>
-   <name>TC.REG.06</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>c4f42b2b-77ac-41d1-a3ae-a0c1ff75fb3c</testCaseGuid>
-</TestCaseEntity>

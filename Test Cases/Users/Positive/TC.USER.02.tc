@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>User admin role, want to add some pengguna</description>
-   <name>TC.USER.02</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>3d807f90-9a97-4d57-b849-dc0359ee24db</testCaseGuid>
-</TestCaseEntity>

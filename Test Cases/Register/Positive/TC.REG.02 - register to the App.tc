@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register into the Application</description>
+   <name>TC.REG.02 - register to the App</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9609cb9-3c4f-4d36-8cbc-2057cc977075</testCaseGuid>
+</TestCaseEntity>

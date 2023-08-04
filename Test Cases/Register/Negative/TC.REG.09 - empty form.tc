@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register with empty form</description>
+   <name>TC.REG.09 - empty form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e90f88fd-9018-428e-b5fc-db98ff9705bb</testCaseGuid>
+</TestCaseEntity>

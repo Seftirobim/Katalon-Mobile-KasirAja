@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Register into the Application with duplicate data</description>
-   <name>TC.REG.03</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>bd0061aa-e131-4496-a5f7-eab7747e4516</testCaseGuid>
-</TestCaseEntity>

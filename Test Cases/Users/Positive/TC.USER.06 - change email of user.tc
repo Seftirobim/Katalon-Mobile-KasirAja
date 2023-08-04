@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit User Email, kasir role</description>
+   <name>TC.USER.06 - change email of user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8045387-5b0d-45ba-a865-0064e1685f52</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register With Invaid email format</description>
+   <name>TC.REG.05 - invalid email format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f85c6e9-25fb-435c-ac70-2046d459e257</testCaseGuid>
+</TestCaseEntity>

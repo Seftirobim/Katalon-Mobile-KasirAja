@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Go to Register Page</description>
-   <name>TC.REG.01</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>052aca8a-8c42-49b7-bd7d-76a5b3527622</testCaseGuid>
-</TestCaseEntity>

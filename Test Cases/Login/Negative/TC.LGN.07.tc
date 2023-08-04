@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>User want to login with empty password</description>
-   <name>TC.LGN.07</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>72829717-9078-4ef3-a54c-700e9c5fd91d</testCaseGuid>
-</TestCaseEntity>

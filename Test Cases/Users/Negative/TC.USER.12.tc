@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>User admin role, want to add user with empty password</description>
-   <name>TC.USER.12</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>11df54f9-f102-4c38-8c47-a607996d499a</testCaseGuid>
-</TestCaseEntity>

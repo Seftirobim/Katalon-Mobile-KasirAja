@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Login with valid data and ensure that the sidebar menu has menus according to the admin role.</description>
-   <name>TC.LGN.01</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>5eb7225e-afeb-474b-af26-0d371e4fadda</testCaseGuid>
-</TestCaseEntity>
